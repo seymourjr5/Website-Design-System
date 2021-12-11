@@ -1,0 +1,119 @@
+body{
+    background-color: rgb(223, 223, 223);
+}
+
+.main-heading{
+    border: 2px solid black;
+    text-align: center;
+    background-color: hsla(0, 18%, 62%, 0.082);
+}
+
+
+.content-header{
+    text-align: center;
+    font-weight: bold;
+    font-size: 20px;
+}
+.div-content{
+    border: 2px solid black;
+    margin: 10px 10px;
+    padding: 10px;
+}
+
+.blue{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: hsl(236, 46%, 46%);
+}
+
+.red{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: hsl(0, 100%, 31%);
+}
+
+.orange{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: hsl(29, 61%, 51%);
+}
+
+.yellow{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    background-color: hsl(41, 97%, 47%);
+}
+
+.font1{
+    font-style:'Corinthia', cursive;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.font2{
+    font-family: 'Luxurious Script', cursive;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.font3{
+    font-family: 'Maven Pro', sans-serif;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.font4{
+    font-family: 'Roboto', sans-serif;
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+
+.style1{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 700;
+    font-family: 'Roboto';
+    font-size: 26px;
+}
+
+.style2{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Maven Pro';
+}
+
+.style3{
+    border: 1px solid black;
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 14px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.list li{
+    list-style-type: none;
+}
