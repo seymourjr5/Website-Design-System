@@ -2,6 +2,31 @@ body{
     background-color: rgb(223, 223, 223);
 }
 
+
+nav ul{
+    list-style-type: none;
+    padding: 0 auto;
+    position: relative;
+    text-align: center;
+}
+
+
+nav ul li{
+    font-size: 12px;
+    margin: 0 2vw;
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px 20px;
+    border: 1px solid black;
+    margin: 0 60px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+
 .main-heading{
     border: 2px solid black;
     text-align: center;
